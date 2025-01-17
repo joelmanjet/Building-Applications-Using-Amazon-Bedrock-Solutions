@@ -2,8 +2,9 @@
 
 In this course, principal technologist and university instructor **Lee Assam** introduces Amazon Bedrock and demonstrates how to build Generative AI applications using modern tools and frameworks. Learn about key use cases, including **semantic search with RAG (Retrieval Augmented Generation)**, **text summarization**, and **content generation**. By leveraging tools like **LangChain**, **Streamlit**, and **Amazon Kendra**, you'll gain hands-on experience in creating Generative AI solutions using **Python**.
 
-## **Final Challenge Demo**  
-![Amazon Bedrock Challenge Demo](/FinalChallengeDemo.gif)
+## **Challenge Demos**  
+### Challenge 2 Demo
+![Challenge 2 Demo](/02_06bRec.gif)
 
 ---
 
