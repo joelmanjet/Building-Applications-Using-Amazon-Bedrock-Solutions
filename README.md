@@ -16,7 +16,7 @@ In this course, principal technologist and university instructor **Lee Assam** i
 ---
 
 ## **Solution Files**
-- **[Challenge #1 (Knowledge base interaction with claude model)](/Challenge1_02_04)b**  
+- **[Challenge #1 (Knowledge base interaction with claude model)](/Challenge1_02_04b)**  
 - **[Challenge #2 (Text Summarization Demo)](/Challenge2Solution.png)**  
 - **[Challenge #3 (Content Generation Demo)](/Challenge3Solution.png)**  
 
