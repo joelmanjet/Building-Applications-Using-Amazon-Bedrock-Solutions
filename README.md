@@ -21,10 +21,10 @@ In this course, principal technologist and university instructor **Lee Assam** i
 ---
 
 ## **Solution Files**
-- **[Challenge #1 (Knowledge base interaction with claude model)](/Challenge1_02_04b)**  
-- **[Challenge #2 (Using Streamlit to make a local website built off of challenge 1's code)](/Challenge2_02_06b)**  
-- **[Challenge #3 (Building off of challenge 1 & 2, now incorporating chat history)](/Challenge3_03_02b)**
-- **[Challenge #4 (Building off of previous challenges, now incorporating website scraping as information source)](/Challenge3_03_06b)**  
+- **[Challenge #1 (Knowledge base interaction with claude model)](/Challenge1_02_04b.py)**  
+- **[Challenge #2 (Using Streamlit to make a local website built off of challenge 1's code)](/Challenge2_02_06b.py)**  
+- **[Challenge #3 (Building off of challenge 1 & 2, now incorporating chat history)](/Challenge3_03_02b.py)**
+- **[Challenge #4 (Building off of previous challenges, now incorporating website scraping as information source)](/Challenge3_03_06b.py)**  
 
 ---
 
